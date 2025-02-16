@@ -1,2 +1,3 @@
-# My_first-Repository
-software developer
+#software developer
+My_first-Repository
+Author_NaseemShigari
